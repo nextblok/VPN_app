@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6848757abf4397ecf149cf4c"
+  },
+  "ip": "37.72.128.6",
+  "http_port": 2009,
+  "socks5_port": 12009,
+  "login": "user289331",
+  "password": "xihyuo",
+  "country": "Ukraine"
+},
+{
+  "_id": {
+    "$oid": "6848757abf4397ecf149cf4d"
+  },
+  "ip": "184.174.48.200",
+  "http_port": 9201,
+  "socks5_port": 19201,
+  "login": "user289331",
+  "password": "xihyuo",
+  "country": "United States"
+}]
