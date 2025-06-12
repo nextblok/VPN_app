@@ -7,7 +7,8 @@
   "socks5_port": 12009,
   "login": "user289331",
   "password": "xihyuo",
-  "country": "Ukraine"
+  "country": "Ukraine",
+  "country_code":"UA"
 },
 {
   "_id": {
@@ -18,5 +19,6 @@
   "socks5_port": 19201,
   "login": "user289331",
   "password": "xihyuo",
-  "country": "United States"
+  "country": "United States",
+  "country_code":"US"
 }]
