@@ -8,7 +8,7 @@
   "login": "user289331",
   "password": "xihyuo",
   "country": "Ukraine",
-  "country_code":"UA"
+  "country_code":"ua"
 },
 {
   "_id": {
@@ -20,5 +20,5 @@
   "login": "user289331",
   "password": "xihyuo",
   "country": "United States",
-  "country_code":"US"
+  "country_code":"us"
 }]
